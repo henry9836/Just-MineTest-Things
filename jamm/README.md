@@ -13,3 +13,5 @@
 
 ### How to use items:
 Rings: you must be holding a ring in your hand to activate the ring's ability
+
+### Will be offically released when I have better crafting recipes
