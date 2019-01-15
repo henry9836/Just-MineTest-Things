@@ -10,8 +10,18 @@
 - Ring of Vita (makes you regen health quickly)
 - Ring of Fuga (makes you fly)
 - Ring of Festina (makes you go very fast)
+#### Tools
+- Ruby Axe/Sword/Shovel/Pickaxe
+#### Blocks and Machines
+- Pure Infusing Altar (Altare)
+- Boiler (Fervefacio)
+- Infusing Altar Column
+- Ruby Ore
+- Exotic Matter Ore
+#### Gas
+- Dark Gas
+- Steam
 
 ### How to use items:
 Rings: you must be holding a ring in your hand to activate the ring's ability
-
-### Will be offically released when I have better crafting recipes
+Altars: Follow setup guide 
