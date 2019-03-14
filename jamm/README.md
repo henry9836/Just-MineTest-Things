@@ -27,3 +27,5 @@
 Rings: you must be holding a ring in your hand to activate the ring's ability
 
 Altars: Follow setup guide 
+
+<img-src="https://trello-attachments.s3.amazonaws.com/5c2487ea3afbd941163e64cd/5c32cb39828e975f48b26132/a75d9199e9d740f6c260eab4dccf2478/Capture.PNG">
