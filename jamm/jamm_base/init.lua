@@ -1174,9 +1174,9 @@ minetest.register_craft({
     type = "shaped",
     output = "jamm_base:pure_ring 1",
     recipe = {
-        {"", "default:gold_ingot", ""},
+        {"jamm_base:exotic_matter", "default:gold_ingot", "jamm_base:exotic_matter"},
         {"default:gold_ingot", "jamm_base:pure_ruby", "default:gold_ingot"},
-        {"", "default:gold_ingot", ""}
+        {"jamm_base:exotic_matter", "default:gold_ingot", "jamm_base:exotic_matter"}
     }
 })
 
